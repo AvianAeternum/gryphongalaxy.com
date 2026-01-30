@@ -2,13 +2,13 @@
 title: Comics Master List
 description: A list of all my comics and where to find them.
 published: true
-date: 2026-01-30T11:36:45.412Z
+date: 2026-01-30T11:39:02.056Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-30T11:34:58.696Z
 ---
 
-The following is a list of all my published comics and where to find them. 
+![18.png](/branding/18.png){.align-abstopright}The following is a list of all my published comics and where to find them. 
 
 > 🔞 The following links are all to ADULT content. 
 {.is-info}
