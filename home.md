@@ -2,13 +2,13 @@
 title: Home
 description: Here at CyberInk, we provide a neutral, point-of-view, factual Encyclopedia for the galaxy and all in it.
 published: true
-date: 2026-01-30T12:44:03.722Z
+date: 2026-01-30T12:44:31.746Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T05:18:04.917Z
 ---
 
-<h2 style="text-align: center;">FluffKevlar</h2>
+<h2 style="text-align: center; margin-top: 20px;">FluffKevlar</h2>
 
 ![raneheadshot.webp](/branding/raneheadshot.webp =232x){.align-center}
 
