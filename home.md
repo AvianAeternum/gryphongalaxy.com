@@ -2,7 +2,7 @@
 title: Home
 description: Here at CyberInk, we provide a neutral, point-of-view, factual Encyclopedia for the galaxy and all in it.
 published: true
-date: 2026-01-30T12:26:49.758Z
+date: 2026-01-30T12:27:57.251Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T05:18:04.917Z
@@ -31,3 +31,12 @@ dateCreated: 2026-01-29T05:18:04.917Z
 - [Twitter](https://twitter.com/fluffkevlar)
 - [FurAffinity](https://www.furaffinity.net/user/fluff-kevlar/)
 {.links-list}
+
+<div style="max-width: 440px; margin: 0 auto;">
+  
+- [Bluesky](https://bsky.app/profile/fluffkevlar.bsky.social)
+- [Twitter](https://twitter.com/fluffkevlar)
+- [FurAffinity](https://www.furaffinity.net/user/fluff-kevlar/)
+{.links-list}
+  
+</div>
