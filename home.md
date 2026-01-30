@@ -2,7 +2,7 @@
 title: Home
 description: Here at CyberInk, we provide a neutral, point-of-view, factual Encyclopedia for the galaxy and all in it.
 published: true
-date: 2026-01-30T12:13:27.815Z
+date: 2026-01-30T12:15:04.769Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-29T05:18:04.917Z
